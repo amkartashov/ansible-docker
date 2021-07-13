@@ -1,3 +1,5 @@
+> DEPRECATED: moved to [gorilych/ansible](https://github.com/gorilych/dockerfiles/tree/master/ansible)
+
 # Ansible in docker
 
 Docker image with preinstalled ansible, to be used as ansible control machine.
